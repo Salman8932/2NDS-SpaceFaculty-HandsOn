@@ -4,7 +4,7 @@ Welcome to the Satellite Workshop repository! This repository contains materials
 
 Workshop Overview
 
-- Hardware Presentation and Tools Management: Introduction to satellite hardware and tools management.
+- Hardware Presentation and Tools: Introduction to satellite hardware and tools utilization.
 - Flat Sat Construction: Assembling hardware components and testing functionalities.
 - Coding Lessons: Practical sessions on GS, ADCS, OBC algorithm design and payload communication.
 - Mechanical Integration: Assembly and integration of satellite components.
@@ -20,7 +20,7 @@ Repository Structure
 
 Getting Started
 
-- Refer to docs/ for workshop instructions. Ensure you have necessary hardware and tools.
+- Refer to docs/ for workshop instructions. Ensure you have the necessary hardware and tools.
 
 Contributing
 - Feel free to contribute via pull requests to enhance the workshop.
