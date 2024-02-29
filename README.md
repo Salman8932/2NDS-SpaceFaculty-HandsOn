@@ -13,14 +13,13 @@ Workshop Overview
 
 Repository Structure
 
-- docs/: Documentation and resources.
-- code/: Code snippets for coding lessons.
-- materials/: Supplementary materials like presentation slides.
-- tests/: Test procedures and results.
+- Documentation and resources.
+- Code snippets for coding lessons.
+- Supplementary materials like presentation slides.
 
 Getting Started
 
-- Refer to docs/ for workshop instructions. Ensure you have the necessary hardware and tools.
+- Refer to documentation for workshop instructions. Ensure you have the necessary hardware and tools.
 
 Contributing
 - Feel free to contribute via pull requests to enhance the workshop.
