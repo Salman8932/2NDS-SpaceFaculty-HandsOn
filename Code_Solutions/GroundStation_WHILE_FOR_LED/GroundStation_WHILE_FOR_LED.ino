@@ -1,7 +1,7 @@
 //Make one LED blink 5 times, then it remains off afterwards. This solution uses a for loop inside a while loop.
 
 #define LED1  4
-int blinkCount = 0; //Initialise the counter
+int blinkCount = 0; //Initialise the counter - THIS IS A GLOBAL VARIABLE
 
 void setup() {
   // Set the LED pin as output
