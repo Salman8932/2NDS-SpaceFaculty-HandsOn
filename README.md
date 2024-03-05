@@ -14,7 +14,7 @@ Workshop Overview
 Repository Structure
 
 - Documentation and resources.
-- Code snippets for coding lessons.
+- Code solutions for coding lessons.
 - Supplementary materials like presentation slides.
 
 Getting Started
