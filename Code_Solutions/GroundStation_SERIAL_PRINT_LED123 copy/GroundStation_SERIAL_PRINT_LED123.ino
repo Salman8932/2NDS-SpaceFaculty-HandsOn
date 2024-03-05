@@ -11,12 +11,12 @@ void setup() {
 
 void loop() {
   digitalWrite(LED1, HIGH);
-  Serial.print("LED1 is ON");
+  Serial.print("LED1 is ON"); //Use the serial printer to say the message you want
   delay(500);
   digitalWrite(LED2, HIGH);
-  Serial.print("LED1 is ON");
+  Serial.print("LED1 is ON"); //Use the serial printer to say the message you want
   delay(500);
   digitalWrite(LED3, HIGH);
-  Serial.print("LED1 is ON");
+  Serial.print("LED1 is ON"); //Use the serial printer to say the message you want
   delay(500);
 }
