@@ -1,3 +1,7 @@
+//Transmit the temperature from the OBC via radio
+//The output should look like: 
+//[NAME OF GROUP] | TEMPOBC = 20.4
+
 #include <SPI.h>
 #include <LoRa.h>
 
