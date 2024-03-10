@@ -49,7 +49,7 @@ uint8_t ss4 = 0;
 
 char c = "";
 
-String secretKey = "<ASDF>";
+String secretKey = "<PASSWORD>";
 String content;
 
 uint8_t ADCSStatus = 0;
