@@ -8,7 +8,7 @@
 #define LED_B2 6
 #define LED_R 8
 
-String secretKey = "<ASDF>";
+String secretKey = "<PASSWORD>";
 String inputmsg;
 
 uint8_t GSconnected = 0;
