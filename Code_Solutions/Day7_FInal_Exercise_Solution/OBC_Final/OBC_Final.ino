@@ -28,7 +28,7 @@ SoftwareSerial cameraconnection(5,6);
 Adafruit_VC0706 cam = Adafruit_VC0706(&cameraconnection);
 
 
-String secretKey = "<ASDF>";
+String secretKey = "<PASSWORD>";
 String inputmsg;
 
 uint8_t OBCconnected = 0;
